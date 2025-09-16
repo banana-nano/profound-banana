@@ -12,4 +12,3 @@
 | And in its form, a lesson can be found,<br>On bending gently when life's winds abound.<br>A gentle curve that follows, not resists,<br>The path of ease, in which all wisdomists.          | そして、その形には、一つの教訓が見出せる、<br>人生の風が吹くとき、優しくしなうこと。<br>抵抗せず、ただ流れに身を任せる穏やかな曲線は、<br>すべての知恵が通じる道。                 |
 | So next you hold this fruit of golden hue,<br>Perceive the depths, the story, old and new.<br>It’s more than food, a symbol, rich and grand,<br>A profound banana, in your humble hand.    | 次にこの黄金色の果実を手にするとき、<br>その奥深さ、古く、そして新しい物語を感じてほしい。<br>それは単なる食べ物ではない、豊かで壮大な象徴、<br>あなたの謙虚な手の中にある、深遠なるバナナなのだ。 |
 
-test
